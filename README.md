@@ -20,5 +20,5 @@ In categories, such as insurance and damage parts, services
 there will be parts.
 # Built With
 Symfony - The web framework used.
-
+# Templates
 ![Ekran Görüntüsü (185)](https://user-images.githubusercontent.com/62670222/112897856-ccef9d80-90e8-11eb-8c1d-5de3bfc3f4d6.png)
